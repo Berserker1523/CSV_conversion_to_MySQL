@@ -8,7 +8,7 @@
 ```
   pip install -r requirements.txt
 ```
-3. Create a database in MySQL and change the configuration in the line 53(database name) and the line 77 of the read_data.py file.
+3. Create a database in MySQL and change the configuration in the line 53 (database name, I used "uptimeanalytics") and the line 77 of the read_data.py file.
 
 4. Run the file
 ```
