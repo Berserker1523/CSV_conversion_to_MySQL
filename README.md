@@ -19,4 +19,4 @@
 
 For duplicate values, those values are stored in a list and later the application calculate the int average of them.
 
-For the missing data, those values are set to null. This because we could want to calculate an average of the data of that variable and we prefer don't set any missing value to 0.
+For the missing data, those values are set to null. We could want to calculate an average of the data of that variable and we prefer don't set any missing value to 0.
