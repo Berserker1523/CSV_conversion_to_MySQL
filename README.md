@@ -20,3 +20,11 @@
 For duplicate values, those values are stored in a list and later the application calculate the int average of them.
 
 For the missing data, those values are set to null. We could want to calculate an average of the data of that variable and we prefer don't set any missing value to 0.
+
+## Images
+
+### MySQL Database
+![MySQL Database](https://i.imgur.com/8n93Gtq.png)
+
+### Command Line
+![Command Line](https://i.imgur.com/IJXIeLL.png)
